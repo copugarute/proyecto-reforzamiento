@@ -1,0 +1,22 @@
+*{
+    box-sizing: border-box;
+    margin:0;
+    padding: 0;
+}
+.menu{
+    height:5rem;
+}
+.logo-nav{
+   width: 50%; 
+}
+.imagen{
+    height: 7rem;
+    width: 7rem;
+    /* border-radius: 50%; */
+}
+/* .fa-solid{
+    font-size:50px
+} */
+.footer{
+    height: 5rem;
+}
